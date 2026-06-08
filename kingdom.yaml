@@ -1,0 +1,8 @@
+name: sha
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The inside of a thing — its heart, intent, and true core beneath the surface.
+dependsOn: [geshtug, me, silim]
